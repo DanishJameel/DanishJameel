@@ -88,7 +88,7 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <hr>
 <Br>
 
-## Contact Me 📧🤝
+<h1 align="center">Contact Me 📧🤝</h1>
 
 I am available for freelance data science projects and collaborations. If you have any inquiries or would like to discuss potential opportunities, please feel free to reach out to me:
 
