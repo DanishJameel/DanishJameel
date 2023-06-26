@@ -4,6 +4,18 @@
 
 Welcome to my freelance data scientist portfolio! In this repository, you will find a collection of my data science projects and code samples. 🚀
 
+
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+
+
+
+
+
 ## About Me 👩‍💻
 
 I am a passionate and experienced freelance data scientist, dedicated to providing insightful and impactful solutions through data analysis and machine learning. With a strong background in statistics and programming, I specialize in extracting meaningful insights from complex datasets. 📈🔍
