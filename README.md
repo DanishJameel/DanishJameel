@@ -25,16 +25,19 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 
 ## Projects 📚
 
-Here are some highlights of my data science projects:
-
-### Project 1: Predictive Customer Churn Analysis 📉
-In this project, I built a predictive model to identify customers at risk of churn for a telecommunications company. The model achieved an accuracy of 85% and provided valuable insights into customer behavior.
-
-### Project 2: Sentiment Analysis on Social Media Data 📱📊
-Using natural language processing techniques, I analyzed millions of tweets to determine the sentiment around a product launch. The sentiment analysis model achieved an accuracy of 82% and helped the client make informed marketing decisions.
-
-### Project 3: Fraud Detection in Financial Transactions 💰🔒
-I developed an anomaly detection algorithm to identify fraudulent transactions in a large financial dataset. The model successfully detected 95% of fraudulent cases, saving the client significant financial losses.
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arya-manjaramkar" target="_blank"><img align="center" src="https://img.shields.io/badge/Arya%20Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aryagm01@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/aryagm01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/Aryagm" target="_blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/1234567890" target="_blank"><img align="center" src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
+</p>
+<Br>
+<hr>
+<Br>
 
 ## Code Samples 💻
 
