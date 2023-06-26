@@ -34,8 +34,9 @@ Here are some code samples showcasing my expertise:
 I am available for freelance data science projects and collaborations. If you have any inquiries or would like to discuss potential opportunities, please feel free to reach out to me:
 
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20/)](https://www.linkedin.com/in/ishagupta20/)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ishagupta20/)](https://www.linkedin.com/in/ishagupta20/)
 - Email: [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
 - Website: [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
+- WhatsApp: +1234567890 (Click to Chat) [![WhatsApp Badge](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/1234567890)](https://wa.me/1234567890)
 
-Let's harness the power of data together and create meaningful solutions! 🌟💡
+Let's harness the power of data together and create meaningful solutions! 🌟
