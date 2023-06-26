@@ -45,13 +45,18 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <Br>
 
 
-## Code Samples 💻
-
-Here are some code samples showcasing my expertise:
-
-- `data_preprocessing.py`: A Python script demonstrating data preprocessing techniques, including cleaning, feature engineering, and scaling.
-
-- `machine_learning.ipynb`: A Jupyter Notebook showcasing various machine learning algorithms, such as linear regression, random forests, and gradient boosting.
+<h1 align="center">Skills I have! 🤸‍♂</h1>
+<Br>
+  
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervised%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Computer%20Vision-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/Natural%20Language%20Processing-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Model%20Development-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Model%20Deployment-yellow?style=for-the-badge)|![](https://img.shields.io/badge/AI%20Based%20Applications-yellow?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
+  
+<Br>
+<hr>
+<Br>
 
 ## Contact Me 📧🤝
 
