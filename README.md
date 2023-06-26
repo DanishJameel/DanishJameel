@@ -84,3 +84,10 @@ I am available for freelance data science projects and collaborations. If you ha
 - WhatsApp: +1234567890 (Click to Chat) [![WhatsApp Badge](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/+923108841380)](https://wa.me/+923108841380)
 
 - Let's harness the power of data together and create meaningful solutions! 🌟
+   
+<Br>
+<hr>
+<Br>
+<h1>Thank You! 🤵 </h1>
+<Br>
+
