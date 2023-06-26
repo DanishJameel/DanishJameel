@@ -14,7 +14,7 @@
 <h1>About Me! 👩‍💻</h1>
 I am a passionate and experienced researcher and freelance data scientist, dedicated to providing insightful and impactful solutions through data analysis and machine learning. With a strong background in statistics and programming, I specialize in extracting meaningful insights from complex datasets. 📈🔍
 
-
+<h1>👀👩‍💻</h1>
 
 - 🎓 Education: I am currently a grade 9 high school student with a hunger for learning and a drive to excel in the field of data science.
 - 🔭 Current Projects: I am actively working on various small-scale machine learning projects to enhance my skills and gain practical experience.
