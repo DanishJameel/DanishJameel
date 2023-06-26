@@ -105,3 +105,28 @@ I am available for freelance data science projects and collaborations. If you ha
 <h1>Thank You! 🤵 </h1>
 <Br>
 
+
+
+<hr>
+<Br>
+<h1 align="center">Projects! 🚀</h1>
+<Br>
+
+### Project 1: Customer Segmentation using Machine Learning
+
+- Description: Developed a machine learning model to segment customers based on their purchasing behavior, allowing targeted marketing campaigns.
+- Tools: Python, scikit-learn, pandas, matplotlib
+- Repository: [GitHub Link](https://github.com/your-username/project1)
+
+### Project 2: Sentiment Analysis on Twitter Data
+
+- Description: Built a sentiment analysis model to classify tweets as positive, negative, or neutral, providing insights into public opinion.
+- Tools: Python, Natural Language Processing (NLP), NLTK, scikit-learn
+- Repository: [GitHub Link](https://github.com/your-username/project2)
+
+### Project 3: Stock Price Prediction using LSTM
+
+- Description: Implemented a Long Short-Term Memory (LSTM) neural network to predict stock prices based on historical data.
+- Tools: Python, TensorFlow, Keras, pandas
+- Repository: [GitHub Link](https://github.com/your-username/project3)
+
