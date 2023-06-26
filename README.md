@@ -14,15 +14,17 @@
 <h1>About Me! 👩‍💻</h1>
 I am a passionate and experienced researcher and freelance data scientist, dedicated to providing insightful and impactful solutions through data analysis and machine learning. With a strong background in statistics and programming, I specialize in extracting meaningful insights from complex datasets. 📈🔍
 
-🎓 Education: I am currently a grade 9 high school student with a hunger for learning and a drive to excel in the field of data science.
-🔭 Current Projects: I am actively working on various small-scale machine learning projects to enhance my skills and gain practical experience.
-🌱 Learning: My current focus is on Neural Networks and Deep Learning, as I strive to deepen my understanding of these advanced techniques. 🧠💻🤖
-🤔 Seeking Help: I am always open to seeking help and guidance in areas that I am currently exploring. I believe that continuous learning and collaboration are key to personal growth. 😅
-💬 Expertise: Feel free to ask me about Data Analysis, Visualization, and Machine Learning algorithms. I enjoy discussing and sharing knowledge in these areas. 📊📈🤖🧠
-😄 Pronouns: He/His
-⚡ Fun Fact: In addition to my passion for data science, I am also actively involved in playing soccer, tennis, and the piano. ⚽🎾🎹## 
 
-Projects 📚
+
+- 🎓 Education: I am currently a grade 9 high school student with a hunger for learning and a drive to excel in the field of data science.
+- 🔭 Current Projects: I am actively working on various small-scale machine learning projects to enhance my skills and gain practical experience.
+- 🌱 Learning: My current focus is on Neural Networks and Deep Learning, as I strive to deepen my understanding of these advanced techniques. 🧠💻🤖
+- 🤔 Seeking Help: I am always open to seeking help and guidance in areas that I am currently exploring. I believe that continuous learning and collaboration are key to personal growth. 😅
+- 💬 Expertise: Feel free to ask me about Data Analysis, Visualization, and Machine Learning algorithms. I enjoy discussing and sharing knowledge in these areas. 📊📈🤖🧠
+- 😄 Pronouns: He/His
+- ⚡ Fun Fact: In addition to my passion for data science, I am also actively involved in playing soccer, tennis, and the piano. ⚽🎾🎹
+
+## Projects 📚
 
 Here are some highlights of my data science projects:
 
