@@ -1,6 +1,6 @@
 # Freelance Data Scientist 📊🧪
 
-![Data Science]([https://your-image-url.com](https://www.springboard.com/blog/wp-content/uploads/2016/08/How-To-Become-a-Highly-Paid-Freelance-Data-Scientist-in-2021-scaled-700x471.jpg))
+![Data Science](https://your-image-url.com)
 
 Welcome to my freelance data scientist portfolio! In this repository, you will find a collection of my data science projects and code samples. 🚀
 
@@ -33,8 +33,9 @@ Here are some code samples showcasing my expertise:
 
 I am available for freelance data science projects and collaborations. If you have any inquiries or would like to discuss potential opportunities, please feel free to reach out to me:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Website: [Your Website](https://www.your-website.com)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)
+- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20/)](https://www.linkedin.com/in/ishagupta20/)
+- Email: [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
+- Website: [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://devisha.me)](https://devisha.me)
 
 Let's harness the power of data together and create meaningful solutions! 🌟💡
