@@ -1,8 +1,5 @@
 # Freelance Data Scientist 📊🧪
 
-![Data Science](https://your-image-url.com)
-
-Welcome to my freelance data scientist portfolio! In this repository, you will find a collection of my data science projects and code samples. 🚀
 
 
 <p align="center">
