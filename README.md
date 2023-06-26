@@ -71,6 +71,10 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <hr>
 <Br>
 
+# My Application Project Demo 📽️
+
+Check out the video demo of my application [here](https://www.example.com/path_to_your_video).
+
 
 ## Contact Me 📧🤝
 
