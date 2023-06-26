@@ -32,7 +32,7 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-danish-jameel" target="_blank"><img align="center" src="https://img.shields.io/badge/Danish%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:danish.jameel.official@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/danish.jameel.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/officialDanishJ" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/danish.jameel.official" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 
 <br> <!-- Add this line for the line space -->
