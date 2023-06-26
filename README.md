@@ -79,7 +79,8 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 I am available for freelance data science projects and collaborations. If you have any inquiries or would like to discuss potential opportunities, please feel free to reach out to me:
 
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-Danish-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/officialDanishJ)](https://twitter.com/officialDanishJ)
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Danish-Jameel-1ca0f1?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/muhammad-danish-jameel/)](https://www.linkedin.com/in/muhammad-danish-jameel/)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Danish%20Jameel-1ca0f1?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/muhammad-danish-jameel/)](https://www.linkedin.com/in/muhammad-danish-jameel/)
 - Email: [![Gmail Badge](https://img.shields.io/badge/-danish.jameel.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danish.jameel.official@gmail.com)](mailto:danish.jameel.official@gmail.com)
 - WhatsApp: +1234567890 (Click to Chat) [![WhatsApp Badge](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/+923108841380)](https://wa.me/+923108841380)
-Let's harness the power of data together and create meaningful solutions! 🌟
+
+- Let's harness the power of data together and create meaningful solutions! 🌟
