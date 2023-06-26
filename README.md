@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Freelance Data Scientist 📊🧪</h1>
+  <h1 align="center">Freelance Data Scientist 📊🧪</h1>
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 
 
-<h1>About Me! 👩‍💻</h1>
+<h1 align="center">About Me! 👩‍💻</h1>
 I am a passionate and experienced researcher and freelance data scientist, dedicated to providing insightful and impactful solutions through data analysis and machine learning. With a strong background in statistics and programming, I specialize in extracting meaningful insights from complex datasets. 📈🔍
 
-<h1>👀👩‍💻</h1>
+<h1 align="center">👀👩‍💻</h1>
 
 - 🎓 Education: Every Day I learn Something.
 - 🔭 Current Projects: I am actively working on various Research  machine learning projects to enhance my skills and gain practical experience.
@@ -59,7 +59,7 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <Br>
 
 
-<h1>Tools I use! 🛠️</h1>
+<h1 align="center">Tools I use! 🛠️</h1>
 <Br>
  
 |![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
@@ -74,7 +74,7 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
 <Br>
 <hr>
 <Br>
-<h1>Certifications! 🏆</h1>
+<h1 align="center"> Certifications! 🏆</h1>
 <Br>
   
 |[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/danishjameel/danishjameel/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/danishjameel/danishjameel/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/danishjameel/danishjameel/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/danishjameel/danishjameel/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
