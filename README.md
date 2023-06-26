@@ -33,12 +33,12 @@ I am a passionate and experienced researcher and freelance data scientist, dedic
   <a href="https://www.linkedin.com/in/muhammad-danish-jameel" target="_blank"><img align="center" src="https://img.shields.io/badge/Danish%20Jameel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:danish.jameel.official@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/danish.jameel.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/your-twitter-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/your-facebook-profile" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/danish.jameel.official" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-%1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
 
 <br> <!-- Add this line for the line space -->
 
   <a href="https://wa.me/+923108841380" target="_blank"><img align="center" src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/your-upwork-profile-link" target="_blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~015163cb9adcaae281" target="_blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 <Br>
 <hr>
