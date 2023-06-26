@@ -1,6 +1,6 @@
 # Freelance Data Scientist 📊🧪
 
-![Data Science](https://your-image-url.com)
+![Data Science]([https://your-image-url.com](https://www.springboard.com/blog/wp-content/uploads/2016/08/How-To-Become-a-Highly-Paid-Freelance-Data-Scientist-in-2021-scaled-700x471.jpg))
 
 Welcome to my freelance data scientist portfolio! In this repository, you will find a collection of my data science projects and code samples. 🚀
 
